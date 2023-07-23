@@ -7,7 +7,9 @@ url: https://digitaltwinsdk.com/
 aux_links:
   SDK Repository: https://github.com/DigitalBotLab/digital-twin-sdk-code
   Digital Twin Starter: https://DigitalTwinStarter.com
+  Digital Bot Lab: https://DigitalBotLab.com
 
+aux_links_new_tab: true
 
 favicon_ico: "/favicon/favicon.ico"
 
