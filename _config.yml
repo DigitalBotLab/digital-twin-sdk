@@ -1,8 +1,8 @@
 title: Digital Twin SDK
-description: The Digital Twins SDK is a comprehensive toolset designed to enable developers to create, manage, and interact with digital twin instances effectively.
+description: The Digital Twin SDK is a comprehensive toolset designed to enable developers to create, manage, and interact with digital twin instances effectively.
 theme: just-the-docs
 
 url: https://digitaltwinsdk.com/
 
 aux_links:
-  Template Repository: https://github.com/DigitalBotLab/digital-twin-sdk-code
+  SDK Repository: https://github.com/DigitalBotLab/digital-twin-sdk-code

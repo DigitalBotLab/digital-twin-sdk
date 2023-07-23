@@ -2,9 +2,10 @@
 title: Home
 layout: home
 ---
-# Welcome to the Digital Twins SDK!  
+# Welcome to the Digital Twin SDK!  
+# Site Under Construction!
 
-The Digital Twins SDK is a comprehensive toolset designed to enable developers to create, manage, and interact with digital twin instances effectively. It offers essential features such as easy digital twin creation, real-time event handling, telemetry support, and seamless integration with IoT devices. With model management capabilities, developers can define and manage digital twin models efficiently. 
+The Digital Twin SDK is a comprehensive toolset designed to enable developers to create, manage, and interact with digital twin instances effectively. It offers essential features such as easy digital twin creation, real-time event handling, telemetry support, and seamless integration with IoT devices. With model management capabilities, developers can define and manage digital twin models efficiently. 
 
 The SDK empowers users to visualize digital twins and conduct simulations for predictive analysis. Ensuring security and scalability, the SDK includes robust authentication and access control mechanisms, making it suitable for large-scale deployments. With practical examples, detailed API documentation, and troubleshooting guidance, the Digital Twins SDK simplifies the implementation process and unlocks the potential of digital twin technology for various applications, providing a valuable resource for developers in diverse industries.
 
@@ -16,7 +17,7 @@ The SDK empowers users to visualize digital twins and conduct simulations for pr
 
 **II. SDK Overview**
 
-1. Introduction to the Digital Twins SDK
+1. Introduction to the Digital Twin SDK
 2. Purpose and objectives of the SDK
 3. Supported platforms and programming languages
 
@@ -73,7 +74,7 @@ The SDK empowers users to visualize digital twins and conduct simulations for pr
 2. Load balancing and caching mechanisms
 
 **VI. Use Cases and Examples**
-1. Illustrative examples of using the Digital Twins SDK
+1. Illustrative examples of using the Digital Twin SDK
 2. Real-world use cases and success stories
 
 **VII. Best Practices**
@@ -90,7 +91,7 @@ The SDK empowers users to visualize digital twins and conduct simulations for pr
 2. Frequently Asked Questions related to the SDK
 
 **X. Conclusion**
-1. Recap of key features and benefits of the Digital Twins SDK
+1. Recap of key features and benefits of the Digital Twin SDK
 2. Future roadmap and enhancements
 
 ----
