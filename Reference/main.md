@@ -6,5 +6,5 @@ has_children: true
 ---
 
 
-**7. Documentation**
+**Documentation**
    - API Reference
