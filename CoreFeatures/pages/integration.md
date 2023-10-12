@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Integration with IoT Devices
-parent: Data
+parent: Core Features
 nav_order: 5
 ---
 

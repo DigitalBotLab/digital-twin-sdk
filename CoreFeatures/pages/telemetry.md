@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Events and Telemetry
-parent: Data
+parent: Core Features
 nav_order: 3
 ---
 

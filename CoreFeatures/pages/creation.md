@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Digital Twin Creation
-parent: Data
+parent: Core Features
 nav_order: 1
 ---
 
