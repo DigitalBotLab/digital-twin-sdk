@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Model Management
-parent: Data
+parent: Core Features
 nav_order: 4
 ---
 
